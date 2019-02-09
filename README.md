@@ -2,4 +2,4 @@
 WIP basic scientific calculator using Python
 
 
-Just a basic calculator in Python
+Just a basic calculator in Python. Work in Progress
